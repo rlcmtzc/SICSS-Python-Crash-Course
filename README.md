@@ -17,7 +17,7 @@ The second week (July 04 to July 08) covers working with tabular data, plotting,
 The table bellow gives you an overview of the weeks content and the links to the exercises:
 | Day | Tutorial | Exercise |
 | ---      | ---      |  --- |
-| 04.07    | `pandas` Part 1   |  [Exercise 6](.exercises/ex06_pandas_a.ipynb) |     
+| 04.07    | `pandas` Part 1   |  [Exercise 6](./exercises/ex06_pandas_a.ipynb) |     
 | 05.07    | `pandas` Part 2   |  [Exercise 7](./exercises/ex07_pandas_b.ipynb) |  
 | 06.07    | Plotting with `matplotlib`   |  [Exercise 8](./exercises/ex08_plotting.ipynb) | 
 | 07.07    | Basic Statistics with `scipy` and `statsmodels`   |  [Exercise 9](./exercises/ex09_scipy_statsmodels.ipynb) | 
