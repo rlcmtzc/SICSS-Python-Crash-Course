@@ -1,27 +1,27 @@
-# SICSS Aachen-Graz 2022 - Python Crash Course
+# SICSS Aachen-Graz - Python Crash Course
 
-Welcome to the Python crash course of the Summer Institute in Computational Social Science 2022!
+Welcome to the Python crash course of the Summer Institute in Computational Social Science!
 
-In the first week (June 27 to July 1), you will learn the basics of programming in Python: data types, data structures, branching, loops, and functions. In [`./tutorials`](./tutorials/), you'll find interactive notebooks explaining these concepts (for each day there is one notebook). They include links to video tutorials for those of you who prefer spoken explanations over reading. To practice the newly learned skills, check out the examples in [`./exercises`](./exercises/)! (Again one notebook for each day).  
+In the first week, you will learn the basics of programming in Python: data types, data structures, branching, loops, and functions. In [`./tutorials`](./tutorials/), you'll find interactive notebooks explaining these concepts (for each day there is one notebook). They include links to video tutorials for those of you who prefer spoken explanations over reading. To practice the newly learned skills, check out the examples in [`./exercises`](./exercises/)! (Again one notebook for each day).  
 The table bellow gives you an overview of the weeks content and the links to the tutorials and exercises:
 
 | Day | Tutorial | Exercise |
 | ---      | ---      |  --- |
-| 27.06    | [Print, Comments, Strings and Numbers](./tutorials/tut01_print_comments_strings_numbers.ipynb)   |  [Exercise 1](./exercises/ex01_print_comments_strings_numbers.ipynb) |     
-| 28.06    | [Datastructures and Loops Part 1](./tutorials/tut02_datastructures_loops.ipynb)   |  [Exercise 2](./exercises/ex02_datastructures_loops.ipynb) |  
-| 29.06    | [Booleans, Conditions and Loops Part 2](./tutorials/tut03_booleans_branching_loops.ipynb)   |  [Exercise 3](./exercises/ex03_booleans_branching_loops.ipynb) | 
-| 30.06    | [Functions](./tutorials/tut04_functions.ipynb)   |  [Exercise 4](./exercises/ex04_functions.ipynb) | 
-| 01.07    | [File I/O](./tutorials/tut05_file_IO.ipynb)   |  [Exercise 5_1](./exercises/ex05_file_IO.ipynb) and [Exercise 5_2](./exercises/ex05_reading_error_messages.ipynb) | 
+| 1    | [Print, Comments, Strings and Numbers](./tutorials/tut01_print_comments_strings_numbers.ipynb)   |  [Exercise 1](./exercises/ex01_print_comments_strings_numbers.ipynb) |     
+| 2    | [Datastructures and Loops Part 1](./tutorials/tut02_datastructures_loops.ipynb)   |  [Exercise 2](./exercises/ex02_datastructures_loops.ipynb) |  
+| 3    | [Booleans, Conditions and Loops Part 2](./tutorials/tut03_booleans_branching_loops.ipynb)   |  [Exercise 3](./exercises/ex03_booleans_branching_loops.ipynb) | 
+| 4    | [Functions](./tutorials/tut04_functions.ipynb)   |  [Exercise 4](./exercises/ex04_functions.ipynb) | 
+| 5    | [File I/O](./tutorials/tut05_file_IO.ipynb)   |  [Exercise 5_1](./exercises/ex05_file_IO.ipynb) and [Exercise 5_2](./exercises/ex05_reading_error_messages.ipynb) | 
 
-The second week (July 04 to July 08) covers working with tabular data, plotting, basic statistics, and networks. For those topics, we'll skip the explanatory notebooks and go straight for practical tasks (again found in [`./exercises`](./exercises/)). But don't worry, the task descriptions contain links to helpful videos and documentation pages :)  
+The second week covers working with tabular data, plotting, basic statistics, and networks. For those topics, we'll skip the explanatory notebooks and go straight for practical tasks (again found in [`./exercises`](./exercises/)). But don't worry, the task descriptions contain links to helpful videos and documentation pages :)  
 The table bellow gives you an overview of the weeks content and the links to the exercises:
 | Day | Tutorial | Exercise |
 | ---      | ---      |  --- |
-| 04.07    | `pandas` Part 1   |  [Exercise 6](./exercises/ex06_pandas_a.ipynb) |     
-| 05.07    | `pandas` Part 2   |  [Exercise 7](./exercises/ex07_pandas_b.ipynb) |  
-| 06.07    | Plotting with `matplotlib`   |  [Exercise 8](./exercises/ex08_plotting.ipynb) | 
-| 07.07    | Basic Statistics with `scipy` and `statsmodels`   |  [Exercise 9](./exercises/ex09_scipy_statsmodels.ipynb) | 
-| 08.07    | Networks with `networkx`   |  [Exercise 10](./exercises/ex10_networkx.ipynb) | 
+| 1    | `pandas` Part 1   |  [Exercise 6](./exercises/ex06_pandas_a.ipynb) |     
+| 2    | `pandas` Part 2   |  [Exercise 7](./exercises/ex07_pandas_b.ipynb) |  
+| 3    | Plotting with `matplotlib`   |  [Exercise 8](./exercises/ex08_plotting.ipynb) | 
+| 4    | Basic Statistics with `scipy` and `statsmodels`   |  [Exercise 9](./exercises/ex09_scipy_statsmodels.ipynb) | 
+| 5    | Networks with `networkx`   |  [Exercise 10](./exercises/ex10_networkx.ipynb) | 
 
 
 ## Setup
